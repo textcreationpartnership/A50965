@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands caveat: or Warning-piece Shewing her daughters estate and condition she lieth in, for the present, as also to rouze her out of her deadly slumber of a carnall and desperate security: together with the meanes of her recovery and preservation. By Alexander Mingzeis, Minister. Iune 2. 1647. Imprimatur. Ja. Cranford.</title>
+            <author>Mingzeis, Alexander.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50965</idno>
+            <idno type="STC">Wing M2192B</idno>
+            <idno type="STC">ESTC R217829</idno>
+            <idno type="EEBO-CITATION">99829472</idno>
+            <idno type="PROQUEST">99829472</idno>
+            <idno type="VID">33912</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33912)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1920:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands caveat: or Warning-piece Shewing her daughters estate and condition she lieth in, for the present, as also to rouze her out of her deadly slumber of a carnall and desperate security: together with the meanes of her recovery and preservation. By Alexander Mingzeis, Minister. Iune 2. 1647. Imprimatur. Ja. Cranford.</title>
+                  <author>Mingzeis, Alexander.</author>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Thomas Harper, for the author, and his assignes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf is blank.</note>
+                  <note>Calls for a return to the Church of England as a cure for England's troubles.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33912:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <p>Englands <hi>Caveat:</hi> OR <hi>Warning-piece.</hi>
+            </p>
+            <p>Shewing her Daughters eſtate and condi<g ref="char:EOLhyphen"/>tion ſhe lieth in, for the preſent, As alſo to rouze her out of her deadly ſlumber of a carnall and de<g ref="char:EOLhyphen"/>ſperate ſecurity: Together with the meanes of her re<g ref="char:EOLhyphen"/>covery and preſervation.</p>
+            <p>By <hi>Alexander Mingȝeis,</hi> Miniſter.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Iune 2. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur.</p>
+                        <closer>
+                           <signed>Ja. Cranford.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed by <hi>Thomas Harper,</hi> For the Au<g ref="char:EOLhyphen"/>thor, and his Aſſignes. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33912:2"/>
+            <!-- PDF PAGE 10 -->
+            <pb n="1" facs="tcp:33912:2"/>
+            <!-- PDF PAGE 10 -->
+            <head>
+               <hi>Englands Caveat,</hi> OR <hi>Warning-peece.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>ECCLES. 12.11.</bibl>
+                  <p>The words of the wiſe are as goods and as nailes faſtned by the Maſters of Aſſemblies, which are given from one Shepheard.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">H</seg>Eare Oh Virgine, Daughter of Zion, marte of the Nations, who ſayeſt I ſit as a Queen, and ſhall know no ſorrow, Rev. 18.7. When as de<g ref="char:EOLhyphen"/>ſtruction it at hand, and miſery (as
+<pb n="2" facs="tcp:33912:3"/>
+               <!-- PDF PAGE 11 -->a whirle wind) ſhall take thee away. Yea, paine ſhall come upon thee, as the paines of a woman in travell. Thou ſaiſt thou art rich, and increaſ<g ref="char:EOLhyphen"/>ed with goods, and haſt need of no<g ref="char:EOLhyphen"/>thing, and ſeeſt not how thou art wretched, and miſerable, and poor, and blind, and naked. Rev. 3.17. Thy former Prophets propheſied unto thee of corn, and wine and oile, Joel, 2.19. but I have nothing to comfort thee withall, but the ſword, famine, and peſtilence. And though they ſpoke true, yet wouldeſt thou not beleeve them, but becameſt un<g ref="char:EOLhyphen"/>thankfull and vaine in thy imagina<g ref="char:EOLhyphen"/>tions, and thy fooliſh heart was full of darknes, Ro. 1.21. therfore judge<g ref="char:EOLhyphen"/>ment is ſprung up into hemlock, and thou art made bare &amp; deſolate. Yea, thou art returned with the dog unto the vomit, and with the ſwine that was waſhed, to the wallowing in the mire of thy ſinnes, and in the ſink of thine own ruine and perdition, 2 Pet.
+<pb n="3" facs="tcp:33912:3"/>
+               <!-- PDF PAGE 11 -->2.22. Yea, thou haſt multiplied thy tranſgreſſions yet ſeventimes more, and haſt been more vile then the heathen.</p>
+            <p>Thou crieſt peace, peace, when as ſudden calamity will overwholm thee, Jer. 6.14. Thou dwelleſt careleſſe and ſecure, and ſeeſt not that the ſword is at hand; yea the Philiſtines are upon thee, O England, and thy caſting down will be in the midſt of thee: for from within is murder, and ſlaughter and ru<g ref="char:EOLhyphen"/>ine, thy deſtruction is of thy ſelfe, and perpetuall deſolations, if mercy prevent not, and happy will he be, that taketh thy children and daſheth them againſt the ſtones, except thou repent. Make mourning therefore, for England, and take up a lamentation for her, yea let the mourning women bewail her, as a wo<g ref="char:EOLhyphen"/>man mourneth for her firſt born or on<g ref="char:EOLhyphen"/>ly begotten; or as Rachel for her chil<g ref="char:EOLhyphen"/>dren, that would not be comforted be<g ref="char:EOLhyphen"/>cauſe they were not Matt. 2.18.</p>
+            <p>Thou ſayſt, that the Earth is full of the knowledge of the Lord, Iſa. 11.9.
+<pb n="4" facs="tcp:33912:4"/>
+               <!-- PDF PAGE 12 -->and that God is with thee, that thou haſt the divine oracles, Ro. 3.2. yea and that thou art the ſeed of Abraham, and boaſteſt of the Temple, of the Sanctu<g ref="char:EOLhyphen"/>ary, Jer. 7.4. and of reformation, when as there is nothing but deformity in thee, and all things are turned into diſ<g ref="char:EOLhyphen"/>order and confuſion.</p>
+            <p>Is not unity the bond of peace and perfectneſſe Eph. 4.3. and the eſtabliſh<g ref="char:EOLhyphen"/>ment of all eſtates and kingdomes, and yet how little thereof is there to bee found in thee? For is not the father a<g ref="char:EOLhyphen"/>gainſt the ſonne, and the ſonne againſt the father, is not the head againſt the members, and the members againſt the head? Is not the Presbyterian againſt the Independent, and the Independent againſt the Presbyterian? Is not the Browniſt againſt the Anabaptiſt, and the Anabaptiſt againſt the Browniſt? Is not the Libertine againſt the Familiſt, and the Familiſt againſt the Libertine? Nay, is not one Chriſtan brother a<g ref="char:EOLhyphen"/>gainſt another? ſo that the whole world
+<pb n="5" facs="tcp:33912:4"/>
+               <!-- PDF PAGE 12 -->ſeemes to be out of frame, &amp; the foun<g ref="char:EOLhyphen"/>dations of the earth are ſhaken, yea, and the vaile of our temple is rent, from the top to the bottome, Mat. 27.51. Chriſt is dead and torne in pieces among us, and we have crucified the Lord of glo<g ref="char:EOLhyphen"/>ry, 1. Cor. 7.8. and put him to an open ſhame. Wee are fallen into the hands of theeves, and left for halfe dead; O good Samaritan heal us, and have com<g ref="char:EOLhyphen"/>paſſion on us! Is not the whole head ſicke, and the whole heart faint? Iſa. 1.5 yea, from the ſole of the foot unto the crowne of the head, there is no ſound<g ref="char:EOLhyphen"/>neſſe in us, but we are full of wounds, and bruiſes, and putrifying ſores, wee have not been cloſed, neither bound up, neither mollified with oyntment. Is not our Country deſolate, our Cities are burnt with fire, have not ſtrangers devoured our land in our preſence, and are we not deſolate as overthrowne by ſtrangers? Are we not left as a cottage in a vineyard, and as a lodge in a gar<g ref="char:EOLhyphen"/>den of cucumbers, and as a beſieged ci<g ref="char:EOLhyphen"/>ty?
+<pb n="6" facs="tcp:33912:5"/>
+               <!-- PDF PAGE 13 -->Verily, except the Lord of Hoſts had left us a ſmall remnant, we ſhould have beene as Sodome, and we ſhould have beene like to Gomorrah. Are not our goods according to the number of our cities, nay according to our tribes, and families, ſo that ſo many heads, ſo many ſeverall ſects and opinions? Is not Chriſt divided, and ſeems not Paul 1. Cor. 1.13. to be crucified among us, while as Chriſts precepts are neglect<g ref="char:EOLhyphen"/>ed, and Pauls Epiſtles abuſed? and while as ſome preach Chriſt of envie, and for filthy lucres ſake, and ſome of good will, and out of a good conſci<g ref="char:EOLhyphen"/>ence. Nay, hath not Baal as many falſe prophets among us, as Chriſt hath true Miniſters? and do not many run before they are ſent? the loweſt and meaneſt of the people (to the diſhonor of God, and ſcandall of the Nation) thruſting themſelves in to bee Prieſts, to ſerve Chriſt at his Altar, while as Chriſt is neglected and perſecuted in his poore ſaints and members.</p>
+            <p>
+               <pb n="7" facs="tcp:33912:5"/>
+               <!-- PDF PAGE 13 -->
+O England, looke about thee! and ſee, whether theſe bee not the deadly and dangerous ſymptomes of an angry and offended God, and of thine appro<g ref="char:EOLhyphen"/>ching ruine and deſolation. Yea, and that which is worſe, thou haſt falſe rea<g ref="char:EOLhyphen"/>chers in the midſt of thee, which bring in damnable hereſies, even denying the Lord that bought them, and bring upon themſelves ſwift damnation, 2. Pet. 2.1. Thou haſt juſtified all Nations in their ſinfull courſes and abominable idola<g ref="char:EOLhyphen"/>tries; for thy blaſphemies are gone up unto heaven, and in them thou haſt ex<g ref="char:EOLhyphen"/>ceeded all people. The Jewes do only deny Chriſt but thou haſt them which not only deny him, but alſo blaſphe<g ref="char:EOLhyphen"/>mouſly uſe him and perſecute him, cur<g ref="char:EOLhyphen"/>ſing the time that ever they knew him, his word or ſacraments; holding the divine truth to be but a fable, &amp; a dead letter, and that all the meanes to grace and ſalvation, is but needleſſe and un<g ref="char:EOLhyphen"/>profitable; that ſtockes and ſtones are God, and that God is in them. The
+<pb n="8" facs="tcp:33912:6"/>
+               <!-- PDF PAGE 14 -->Gentiles called Chriſt, the crucified God, but they never ſayd that hee was weake and unperfect, in charging him with folly and ignorance. <hi>[Becauſe ſome have affirmed that Chriſt did more hurt in teaching the Lords Prayer, and ſaving the Thiefe upon the Croſſe, then ever he did good in all his life.]</hi> The Iewes called him a glutton, a wine-bib<g ref="char:EOLhyphen"/>ber, and a friend of publicans and ſin<g ref="char:EOLhyphen"/>ners, and we do little leſſe. The Turks grant him to be the great Prophet, and Meſſias that ſhould come into the world, onely they deny him to bee the Sonne of God: there bee among us, that deny that ever there was any ſuch thing as a Chriſt in the world; and fome that confeſſe him, but hold him to be no better then illegitimate, and a ſinner. Yea, and that which is worſt of all, this hath beene and is maintay<g ref="char:EOLhyphen"/>ned with a high hand, as if God did not ſee, and as if the Almighty regard<g ref="char:EOLhyphen"/>ed it not. For this our Land mourneth,
+<pb n="9" facs="tcp:33912:6"/>
+               <!-- PDF PAGE 14 -->and bleeds even unto the death. Nay, the cry thereof is gone up even unto the heaven, and hath entred into the eares of the Lord, pleading for venge<g ref="char:EOLhyphen"/>ance.</p>
+            <p>Repent therefore, O England, and doe the firſt workes, leſt God remove the light of his countenance, and can<g ref="char:EOLhyphen"/>dleſticke from thee, Rev. 2.5. and give thee thy portion with them that ſhalbe without; even with dogges and force<g ref="char:EOLhyphen"/>rers, and whoremongers, and murde<g ref="char:EOLhyphen"/>rers, and idolaters, and whatſoever lo<g ref="char:EOLhyphen"/>veth, or maketh a lie.</p>
+            <p>Thou haſt much teaching, and great is the company of Preachers, whereof ſome ſet forth Chriſt ſyncerely, pow<g ref="char:EOLhyphen"/>erfully and plainly: but where is thy converſion, or turning unto the Lord? Doth not pride, malice; cruelty, op<g ref="char:EOLhyphen"/>preſſion, covetouſneſſe, hypocriſie, pro<g ref="char:EOLhyphen"/>phaneſſe, contempt of Gods ordinan<g ref="char:EOLhyphen"/>ces, unprofitableneſſe under the means, unthankfulneſſe for mercies received, ſelfe love, hardneſſe of heart, wilfull
+<pb n="10" facs="tcp:33912:7"/>
+               <!-- PDF PAGE 15 -->ignorance, and carnall ſecurity, reigne as much in thee as ever it did? Doeth it not ſound as loud, yea louder, in the eares of the Lord, then ever it did, and yet wilt thou ſay that thou art reform<g ref="char:EOLhyphen"/>ed, that thou art a people beloved of God, and dwelleſt under the ſhadow of the Almighty? Wilt thou ſay, that thou art Gods choice vine, and doeſt thou bring forth nothing but the grapes of Sodome, and the vintage of Go<g ref="char:EOLhyphen"/>morrah? Doſt thou profeſſe Chriſt in word, and deny him in deed? Is not Religion derided, and faith and a good conſcience made ſhipwracke of? Doſt thou not heare, O England, the bleat<g ref="char:EOLhyphen"/>ing of Sauls ſheepe, and the lowing of his oxen, 1. Sam. 15.14. Doſt thou not<g ref="char:punc">▪</g> ſee, that judgement is waxen ripe, and how that vengeance is layd to the line, and how the Almighty is watching o<g ref="char:EOLhyphen"/>ver thee, for evill, and not for good; yet notwithſtanding all this, wilt thou promiſe thy ſelfe peace in the midſt of warre? What peace (thinkeſt thou) can
+<pb n="11" facs="tcp:33912:7"/>
+               <!-- PDF PAGE 15 -->there be to Ioram, ſo long as the whore<g ref="char:EOLhyphen"/>domes of his mother Iezabel, and her witchcrafts are ſo many, 2. King. 9.22. There is no peace (ſayth my God) un<g ref="char:EOLhyphen"/>to the wicked, Iſa. 48.22. Wherefore let my counſell be acceptable to thee, (O England) to break off thy ſinnes by righteouſneſſe, and thine iniquity, by ſhewing mercy to the poore, if it may be a lengthning of thy tranquility Dan. 4.27. Let righteouſneſſe flow down as a ſtreame, and true judgement as a ſtrong water courſe. Seeke peace and inſue it. Let the Kings throne bee eſta<g ref="char:EOLhyphen"/>bliſhed in judgement and equity, but let it bee thy chiefeſt care to advance Chriſt, in his throne and kingdome: for if thou advance him, he will honor thee, and they that regard him not ſhall be but lightly eſteemed. Let Religion and the power of godlineſſe be eſtabli<g ref="char:EOLhyphen"/>ſhed, and looke up on the blubberd and bedewed cheekes of thy ſpirituall mo<g ref="char:EOLhyphen"/>ther the Church, for it is only ſhe that by profeſſion hath brought thee forth a
+<pb n="12" facs="tcp:33912:8"/>
+               <!-- PDF PAGE 16 -->Chriſtian: O grieve her not, nor ſee her ſit any longer in the duſt, to bewail her rents and ſchiſmes, in the diſcord of her children. Repaire her beauty by bringing in good order and diſcipline, and let them even be cut off that trou<g ref="char:EOLhyphen"/>ble her, and the peace of this our Zion. Prepare to meet thy God, O England, for he is ready to take vengeance, upon all diſobedient and unbeleeving chil<g ref="char:EOLhyphen"/>dren. And, Kiſſe the ſonne leſt hee be angry, and thou periſh from the way, if his wrath be kindled but a little, bleſſed are all they that put their truſt in him, Pſal. 2.12. The which that we may all doe, God grant us his grace, love, fear, and unity of heart, for Chriſts ſake, Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33912:8"/>
+            <!-- PDF PAGE 16 -->
+         </div>
+      </body>
+   </text>
+</TEI>
